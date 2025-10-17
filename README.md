@@ -1,14 +1,63 @@
-<!---
-wayansuantika/wayansuantika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Wayan, Fullstack developer from <b>Bali, Indonesia</b>
+<!-- Profile Header -->
+<h1 align="center">Hi there 👋, I'm Wayan</h1>
+<h3 align="center">🌐 Web Designer | 💡 Marketing Strategist | 🧰 Shopify Dev</h3>
 
-<h3>Things I code with</h3>
-<p>
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+---
+
+### 🎨 About Me  
+- 🖥️ I build sleek, high-converting Shopify stores.  
+- ⚡ I handle marketing, EDMs, and everything in between.  
+- 🌴 Based in Bali, but my WiFi spirit roams globally.  
+- ☕ Fueled by coffee and bad client deadlines.  
+
+---
+
+### 🚀 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,shopify,php,mysql,figma,photoshop,git" />
 </p>
-<h3>And Things I playground so far</h3>
+
+---
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wayansuantika&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wayansuantika&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌈 Languages Breakdown  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayansuantika&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🪄 Animated Touches  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/wayansuantika/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:wayansuantika@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sites.google.com/view/wayansuantika/home">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Fact  
+> “Good design is invisible. Bad design screams louder than your marketing team.”
