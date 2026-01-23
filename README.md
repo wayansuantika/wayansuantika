@@ -1,52 +1,39 @@
-<!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm Wayan</h1>
-<h3 align="center">🌐 Web Designer | 💡 Marketing Strategist | 🧰 Shopify Dev</h3>
-
----
-
-### 🎨 About Me  
-- 🖥️ I build sleek, high-converting Shopify stores.  
-- ⚡ I handle marketing, EDMs, and everything in between.  
-- 🌴 Based in Bali, but my WiFi spirit roams globally.  
-- ☕ Fueled by coffee and bad client deadlines.  
-
----
-
-### 🚀 Tech Stack  
+<h1 align="center">Wayan Suantika</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,shopify,php,mysql,figma,photoshop,git" />
+  Web Designer · Shopify Developer · Marketing
 </p>
 
 ---
 
-### 📈 GitHub Stats  
+### About
+
+I design and build Shopify stores that actually convert.  
+I also handle EDM, marketing flows, and site optimization so things don’t fall apart after launch.
+
+Based in Bali. Working globally.
+
+---
+
+### Tech
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wayansuantika&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,shopify,php,mysql,figma,git" />
 </p>
 
 ---
 
-### 🪄 Animated Touches  
+### GitHub
+
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wayansuantika&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🤝 Connect With Me  
+### Links
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/wayansuantika/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wayansuantika@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sites.google.com/view/wayansuantika/home">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/wayansuantika/" target="_blank">LinkedIn</a> ·
+  <a href="mailto:wayansuantika@gmail.com">Email</a> ·
+  <a href="https://sites.google.com/view/wayansuantika/home" target="_blank">Portfolio</a>
 </p>
-
----
-
-### ✨ Fun Fact  
-> “Good design is invisible. Bad design screams louder than your marketing team.”
