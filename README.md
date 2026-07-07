@@ -15,7 +15,7 @@ Based in Bali. Working globally.
 <p>
   <a href="https://www.linkedin.com/in/wayansuantika/" target="_blank">LinkedIn</a> ·
   <a href="mailto:wayansuantika@gmail.com">Email</a> ·
-  <a href="https://sites.google.com/view/wayansuantika/home" target="_blank">Portfolio</a>
+  <a href="https://wayan.cc" target="_blank">Portfolio</a>
 </p>
 
 ---
